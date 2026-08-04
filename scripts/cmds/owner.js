@@ -21,7 +21,7 @@ module.exports = {
     try {
 
       // ===== OWNER INFO =====
-      const ownerName = "MOMIN-VAI";
+      const ownerName = "CRUSH-MOMIN";
       const ownerNick = "MOMIN";
       const ownerAge = "20+";
       const ownerFrom = "KURIGRAM";
